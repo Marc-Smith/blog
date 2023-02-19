@@ -12,15 +12,11 @@ taxonomy:
 
     category:
 
-        - category-slug-1
-
-        - category-slug-2
+        - Technology
 
     post_tag:
 
-        - tag-1
-
-        - tag-2
+        - testing
 
 custom_fields:
 
