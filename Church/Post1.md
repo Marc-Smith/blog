@@ -1,6 +1,6 @@
 ---
 
-title: Test Church
+title: Test Church post
 
 menu_order: 1
 
