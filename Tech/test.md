@@ -1,6 +1,6 @@
 ---
 
-title: Title of the post
+title: Tech Test Post Github
 
 menu_order: 1
 
