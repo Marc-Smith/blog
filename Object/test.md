@@ -12,7 +12,7 @@ taxonomy:
 
     category:
 
-        - Object Lesson
+        - Object Lessons
 
     post_tag:
 
