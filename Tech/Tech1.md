@@ -5,6 +5,7 @@ title: Tech Test Post Github
 menu_order: 1
 
 post_status: publish
+featured_image: _images/tech.jpg
 
 post_excerpt: This is a post excerpt
 
