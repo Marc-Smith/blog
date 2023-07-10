@@ -6,7 +6,7 @@ menu_order: 1
 featured_image: _images/church.jpg
 post_status: publish
 
-post_excerpt: This is a post excerpt
+post_excerpt: This is a post excerpt test
 taxonomy:
 
     category:
